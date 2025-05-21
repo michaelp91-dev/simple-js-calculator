@@ -20,7 +20,7 @@ A minimalist, fully functional web-based calculator designed to perform basic ar
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/michaelp91-dev/simple-js-calculator.git](https://github.com/michaelp91-dev/simple-js-calculator.git)
+    git clone https://github.com/michaelp91-dev/simple-js-calculator.git
     cd simple-js-calculator
     ```
 
